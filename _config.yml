@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            shays_blog
 tagline:          ''
 description:      ''
-url:             https://shay12-d.github.io/Blog-Assignment/
+url:          shay12-d.github.io
 baseurl:          '/Blog-Assignment/'
 author: DeshaylahFitur
 email: deshaylah@gmail.com
